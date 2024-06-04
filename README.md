@@ -1,16 +1,9 @@
 
 # Using Self-supervised Learning can Improve Model Fairness
 
-Exploring biases in self-supervised and fully supervised models trained on multi-modal human-centric data.
-
-#### :pencil2: Authors: 
- [Sofia Yfantidou](https://scholar.google.com/citations?user=zuHDFY8AAAAJ&hl=en) (syfantid@csd.auth.gr), [Dimitris Spathis](https://dispathis.com/) (dimitrios.spathis@nokia-bell-labs.com), <br/>
- [Marios Constantinides](http://comarios.com/) (marios.constantinides@nokia-bell-labs.com), [Athena Vakali](https://datalab.csd.auth.gr/avakali/) (avakali@csd.auth.gr) <br/>
-[Daniele Quercia](https://researchswinger.org/) (daniele.quercia@nokia-bell-labs.com), [Fahim Kawsar](https://www.fahim-kawsar.net/) (fahim.kawsar@nokia-bell-labs.com) <br/>
-
 #### :globe_with_meridians: [Project website](https://dispathis.com/SSLfairness)
 
-#### :book: Paper: Yfantidou, M., Spathis, S., Constantinides, D., Vakali, A., Quercia, D. and Kawsar, F., 2023. Using Self-supervised Learning can Improve Model Fairness. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining.
+ :book: Paper: Yfantidou, M., Spathis, S., Constantinides, D., Vakali, A., Quercia, D. and Kawsar, F., 2023. <b>Using Self-supervised Learning can Improve Model Fairness</b>. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining.
 
 ## Overview 
 
