@@ -1,0 +1,2 @@
+docker run --gpus all -it --rm --name=sofia_fairml4h_jupyter  -p 6018:6018 -v $(pwd):/workspace/sofia_fairml4h sofia_fairml4h
+#docker run --runtime=nvidia --gpus all -it --rm --name=anonymous -p 9999:9999 -p 6066:6066 -v $(pwd):anonymous
