@@ -3,7 +3,7 @@
 
 #### :globe_with_meridians: [Project website](https://dispathis.com/SSLfairness)
 
- :book: Paper: Yfantidou, M., Spathis, S., Constantinides, D., Vakali, A., Quercia, D. and Kawsar, F., 2023. <b>Using Self-supervised Learning can Improve Model Fairness</b>. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining.
+ :book: Paper: Yfantidou, M., Spathis, S., Constantinides, D., Vakali, A., Quercia, D. and Kawsar, F., 2023. <b>[Using Self-supervised Learning can Improve Model Fairness](https://arxiv.org/abs/2406.02361)</b>. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining.
 
 ## Overview 
 
